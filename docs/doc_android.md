@@ -27,9 +27,9 @@ include ':yzjim'
 
 sync成功后，为app模块添加yzjim包依赖，方法是，在app模块上单击右键，选择Open Module Settings，然后选中Dependencies页签，点击左下角的加号，选择Module Dependency，然后即可看到yzjim，选择并确定。
 
-![img](docs/android_doc_res/p3-1.png)
-![img](docs/android_doc_res/p3-2.png)
-![img](docs/android_doc_res/p3-3.png)
+![img](./android_doc_res/p3-1.png)
+![img](./android_doc_res/p3-2.png)
+![img](./android_doc_res/p3-3.png)
 
 添加好依赖后AndroidStudio会自动sync工程，如果没有自动sync则手动sync工程，完成导入。
 

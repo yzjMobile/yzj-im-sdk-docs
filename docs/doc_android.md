@@ -13,9 +13,9 @@
 
 然后引入aar包，方法是，在AndroidStudio中新建工程或打开您现有的工程，点击File -> New Module -> Import .JAR/.AAR Package，在File Name一栏定位到并选择您下载的yzjim.aar文件，点击Finish完成引入。
 
-![img](docs/android_doc_res/p1-1.png)
-![img](docs/android_doc_res/p1-2.png)
-![img](docs/android_doc_res/p1-3.png)
+![img](./android_doc_res/p1-1.png)
+![img](./android_doc_res/p1-2.png)
+![img](./android_doc_res/p1-3.png)
 
 此时在AndroidStudio的Project面板中，选择"Project"浏览模式，即可看到yzjim路径已被添加进项目工程
 
